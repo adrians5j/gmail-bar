@@ -1,0 +1,4 @@
+.build/
+build/
+*.json
+.DS_Store
